@@ -31,17 +31,17 @@ _13:00-14:00 Lunch_
 
 ### Day 2
 
-10:00-10:30 [Diet Pattern-matching](https://github.com/foundersandcoders/mc-diet-pattern-matching) (morning challenge)
-10:30-12:30 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)
-_13:00-14:00 Lunch_
-14:30-15:00 [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf) (talk)
-15:00-15:30 [Set-up project boilerplate](https://github.com/oliverjam/fac-react-project)
-14:30-18:00 Projects!
+10:00-10:30 [Diet Pattern-matching](https://github.com/foundersandcoders/mc-diet-pattern-matching) (morning challenge)  
+10:30-12:30 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)  
+_13:00-14:00 Lunch_  
+14:30-15:00 [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf) (talk)  
+15:00-15:30 [Set-up project boilerplate](https://github.com/oliverjam/fac-react-project)  
+14:30-18:00 Projects!  
 
 ### Day 3
 
-10:00-13:00 Projects
-_13:00-14:00 Lunch_
-14:00-15:00 Code review
-15:00-16:00 Deployment demo
-16:00-18:00 Present projects
+10:00-13:00 Projects  
+_13:00-14:00 Lunch_  
+14:00-15:00 Code review  
+15:00-16:00 Deployment demo  
+16:00-18:00 Present projects  
