@@ -1,6 +1,6 @@
 # FAC React Workshop
 
-https://github.com/oliverjam/intro-react-workshop
+React week! 🌐
 
 ## Learning Outcomes
 
@@ -37,7 +37,7 @@ _13:00-14:00 Lunch_
 11:00-11:30 [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf) (talk)  
 11:30-13:30 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)  
 _13:30-14:30 Lunch_  
-14:30-16:30 Testing workshop  
+14:30-16:30 [Testing React components](https://github.com/oliverjam/learn-react-testing)  
 16:30-17:30 [Project set-up](https://github.com/oliverjam/fac-react-project)  
 17:30-18:00 Project planning  
 
