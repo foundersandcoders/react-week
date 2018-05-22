@@ -33,7 +33,7 @@ _13:00-14:00 Lunch_
 
 ### Day 2
 
-10:00-11:00 [Destructuring morning challenge](https://github.com/foundersandcoders/mc-diet-pattern-matching)  
+10:00-11:00 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring)  
 11:00-11:30 [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf) (talk)  
 11:30-13:30 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)  
 _13:30-14:30 Lunch_  
