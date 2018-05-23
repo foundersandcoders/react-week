@@ -43,7 +43,7 @@ _13:30-14:30 Lunch_
 
 ### Day 3
 
-10:00-11:00 `this` morning challenge  
+10:00-11:00 [`this` workshop](https://github.com/ZooeyMiller/ws-what-is-this)
 11:00-13:00 Projects  
 _13:00-14:00 Lunch_  
 14:00-17:00 Projects  
