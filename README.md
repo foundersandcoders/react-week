@@ -1,6 +1,6 @@
-# FAC React Workshop
+# React Week
 
-React week! 🌐
+🌐
 
 ## Learning Outcomes
 
