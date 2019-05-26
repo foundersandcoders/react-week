@@ -24,14 +24,14 @@
 ### Day 1
  
 10:00-10:30 [Modern frontend & how React fits in](https://hackmd.io/p/SJauYz6EM#) (talk/discussion)  
-11:30-13:00 [React API](https://github.com/oliverjam/learn-react) (workshop)  
+10:30-13:00 [React API](https://github.com/oliverjam/learn-react) (workshop)  
 _13:00-14:00 Lunch_  
 14:00-15:00 [React API](https://github.com/oliverjam/learn-react) (workshop continued)  
-16:30-18:00 [Build a filterable product page](https://github.com/oliverjam/react-food-workshop) (mini project)  
+15:00-18:00 [Build a filterable product page](https://github.com/oliverjam/react-food-workshop) (mini project)  
 
 ### Day 2
 
-10:00-11:00 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring) (morning challenge) 
+10:00-11:00 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring) (morning challenge)  
 11:00-11:30 [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf) (talk)  
 11:30-13:30 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)  
 _13:30-14:30 Lunch_  
