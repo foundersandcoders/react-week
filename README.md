@@ -5,8 +5,8 @@
 ## Learning Outcomes
 
 1. How modern frontend works
-  - The differences between server-rendered and single-page apps
-  - Why frontend is great/hard
+    - The differences between server-rendered and single-page apps
+    - Why frontend is great/hard
 1. React's benefits/tradeoffs
 1. The React API
     - JSX/React elements
