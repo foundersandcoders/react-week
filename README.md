@@ -4,36 +4,34 @@
 
 ## Learning Outcomes
 
-1. ES6 classes, destructuring and `this`
-2. How modern frontend works
-  - The differences between server-rendered and single-page apps
-  - Why frontend is great/hard
-3. React's benefits/tradeoffs
-4. The React API
-    - JSX
-    - Functional & class-based components
+1. How modern frontend works
+    - The differences between server-rendered and single-page apps
+    - Why frontend is great/hard
+1. React's benefits/tradeoffs
+1. The React API
+    - JSX/React elements
+    - Function components
     - Component state
-    - Lifecycle methods
-5. Real-world React patterns
-6. Testing React components
-7. How bundlers work (ish)
-    - Setting up a project with Parcel
+    - Effects
+    - Class components
+1. Real-world React patterns
+1. Testing React components
+1. How bundlers work (ish)
     - Modularising frontend code
 
 ## Schedule
 
 ### Day 1
-
-10:00-11:00 [Intro to ES6 Classes](https://github.com/oliverjam/es6-class-intro)  
-11:00-11:30 [Modern frontend & how React fits in](https://hackmd.io/p/SJauYz6EM#) (talk/discussion)  
-11:30-13:00 [React API](https://github.com/oliverjam/intro-react-workshop) (workshop)  
+ 
+10:00-10:30 [Modern frontend & how React fits in](https://hackmd.io/p/SJauYz6EM#) (talk/discussion)  
+10:30-13:00 [React API](https://github.com/oliverjam/learn-react) (workshop)  
 _13:00-14:00 Lunch_  
-14:00-16:30 [React API](https://github.com/oliverjam/intro-react-workshop) (workshop continued)  
-16:30-18:00 [Build a stopwatch](https://github.com/oliverjam/intro-react-workshop/blob/master/workshop-top-notch-stopwatch) (mini project)  
+14:00-15:00 [React API](https://github.com/oliverjam/learn-react) (workshop continued)  
+15:00-18:00 [Build a filterable product page](https://github.com/oliverjam/react-food-workshop) (mini project)  
 
 ### Day 2
 
-10:00-11:00 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring)  
+10:00-11:00 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring) (morning challenge)  
 11:00-11:30 [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf) (talk)  
 11:30-13:30 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)  
 _13:30-14:30 Lunch_  
@@ -43,7 +41,7 @@ _13:30-14:30 Lunch_
 
 ### Day 3
 
-10:00-11:00 [`this` workshop](https://github.com/ZooeyMiller/ws-what-is-this)  
+10:00-11:00 [Refactor classes to hooks](https://github.com/oliverjam/react-refactor-class-hooks) (morning challenge)  
 11:00-13:00 Projects  
 _13:00-14:00 Lunch_  
 14:00-17:00 Projects  
