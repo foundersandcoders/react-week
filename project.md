@@ -44,3 +44,5 @@ We'll be deploying our apps to [Netlify](https://netlify.com).
 1. Choose "Github" as your provider (and authorize it)
 1. Choose the repo you want to deploy
 1. Choose "Deploy site" (the build settings for CRA should be pre-filled)
+
+Now every time you push to the Master branch your site will redeploy.
