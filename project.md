@@ -30,7 +30,7 @@ It should:
 We're using [Create React App](https://create-react-app.dev/docs/getting-started) to handle all our bundling, linting etc.
 
 1. `npx create-react-app [my-app-name]` generate the project (might take a while)
-1. `cd my-app-name`
+1. `cd [my-app-name]`
 1. `npm start` start the dev server
 
 Open the project in your editor—you should see an example app setup. Feel free to delete the logo/CSS/service worker that you won't be using.
