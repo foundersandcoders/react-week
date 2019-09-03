@@ -6,16 +6,11 @@ It should:
 
 * Accept some user input (e.g. a username)
 * Query an API (e.g. the [Github API](https://developer.github.com/v3/), or any other [fun one](https://www.potterapi.com/))
-* Populate a UI with API data
+* Populate the UI with API data
 * Have some form of persistent state and interactivity, e.g.
   * A hunger bar that decreases over time and is topped up when you feed them stars
   * A button to add more users to your collection
-* Have integration tests! (and units tests if they're relevant)
-
-Try to:
-
-* Write modular code: one component per file
-* Separate your container logic from presentational components
+* Have integration tests using React Testing Library
 
 ### Stretch goals
 
@@ -32,8 +27,22 @@ Try to:
 
 ### Setup
 
-We'll go through the project setup together. All the information is in [this repo](https://github.com/oliverjam/minimal-react-setup)
+We're using [Create React App](https://create-react-app.dev/docs/getting-started) to handle all our bundling, linting etc.
+
+1. `npx create-react-app [my-app-name]` generate the project (might take a while)
+1. `cd my-app-name`
+1. `npm start` start the dev server
+
+Open the project in your editor—you should see an example app setup. Feel free to delete the logo/CSS/service worker that you won't be using.
 
 ### Deployment
 
-You can deploy your app to [Netlify](https://netlify.com) (or any other static host). There are [more instructions](https://github.com/oliverjam/minimal-react-setup/blob/master/docs/deploying.md) in the setup repo.
+We'll be deploying our apps to [Netlify](https://netlify.com).
+
+1. Go to app.netlify.com and login with Github
+1. Click the "New site from Git" button
+1. Choose "Github" as your provider (and authorize it)
+1. Choose the repo you want to deploy
+1. Choose "Deploy site" (the build settings for CRA should be pre-filled)
+
+Now every time you push to the Master branch your site will redeploy.
