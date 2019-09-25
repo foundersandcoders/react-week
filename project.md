@@ -35,6 +35,10 @@ We're using [Create React App](https://create-react-app.dev/docs/getting-started
 
 Open the project in your editor—you should see an example app setup. Feel free to delete the logo/CSS/service worker that you won't be using.
 
+### Linting
+
+Create React App includes a comprehensive ESLint config. You will see linting errors displayed in your terminal or browser console. If you have an ESLint editor plugin installed you should also see errors highlighted as you write.
+
 ### Testing
 
 Create React App already has [a testing environment](https://create-react-app.dev/docs/running-tests) set up with Jest. You do not need to install Jest yourself—it's part of the `react-scripts` dependency. `npm test` will run any `*.test.js` files in your project.
