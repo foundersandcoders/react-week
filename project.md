@@ -35,6 +35,12 @@ We're using [Create React App](https://create-react-app.dev/docs/getting-started
 
 Open the project in your editor—you should see an example app setup. Feel free to delete the logo/CSS/service worker that you won't be using.
 
+### Testing
+
+Create React App already has [a testing environment](https://create-react-app.dev/docs/running-tests) set up with Jest. You do not need to install Jest yourself—it's part of the `react-scripts` dependency. `npm test` will run any `*.test.js` files in your project.
+
+You may still want to install [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) to help you write integration tests.
+
 ### Deployment
 
 We'll be deploying our apps to [Netlify](https://netlify.com).
