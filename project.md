@@ -12,20 +12,20 @@ It should:
   * A button to add more users to your collection
 * Have integration tests using React Testing Library
 
-### Stretch goals
+## Stretch goals
 
 * Save your state to localstorage so you can leave the page and come back later
 * Have a button to add more copies of the game
 * Make it look sick
 
-### Examples
+## Examples
 
 "interactive game-like thing" is a bit vague, so here are two example apps:
 
 [Oli's Tamagotchi](https://tamagotchi.netlify.com)  
 [Zooey's Drake thing](https://fuckin-yolo.netlify.com/)
 
-### Setup
+## Setup
 
 We're using [Create React App](https://create-react-app.dev/docs/getting-started) to handle all our bundling, linting etc.
 
