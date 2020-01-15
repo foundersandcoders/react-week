@@ -41,15 +41,13 @@ Create React App includes a comprehensive ESLint config. You will see linting er
 
 ### Testing
 
-Create React App already has [a testing environment](https://create-react-app.dev/docs/running-tests) set up with Jest. You do not need to install Jest yourself—it's part of the `react-scripts` dependency. `npm test` will run any `*.test.js` files in your project.
-
-You may still want to install [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) to help you write integration tests.
+Create React App already has [a testing environment](https://create-react-app.dev/docs/running-tests) set up with Jest. You do not need to install Jest yourself—it's part of the `react-scripts` dependency. `npm test` will run any `*.test.js` files in your project. It even comes with React Testing Library installed, and an example test you can look at in `src/App.test.js`.
 
 ### Deployment
 
 We'll be deploying our apps to [Netlify](https://netlify.com).
 
-1. Go to app.netlify.com and login with Github
+1. Go to https://app.netlify.com and login with Github
 1. Click the "New site from Git" button
 1. Choose "Github" as your provider (and authorize it)
 1. Choose the repo you want to deploy
